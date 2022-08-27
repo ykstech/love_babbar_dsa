@@ -1,8 +1,18 @@
 # Default ignored files
 /shelf/
-/backtracking/*.exe
 
+/backtracking/*.exe
 /graph/*.exe
+/hashmap/*.exe
+/heap/*.exe
+/linklist/*.exe
+/online/*.exe
+/queue/*.exe
+/recursion/*.exe
+/stack/*.exe
+/tree/*.exe
+/trie/*.exe
+
 /.idea
 /.vscode
 /cmake-build-debug
